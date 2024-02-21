@@ -1,0 +1,45 @@
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.exe
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.deps.json
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.runtimeconfig.json
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.dll
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.pdb
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.dll
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\refint\Npuzzle.dll
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.pdb
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Npuzzle\Npuzzle\obj\Debug\net6.0\ref\Npuzzle.dll
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.exe
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.deps.json
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.runtimeconfig.json
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.dll
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.pdb
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.csproj.AssemblyReference.cache
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.AssemblyInfoInputs.cache
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.AssemblyInfo.cs
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.csproj.CoreCompileInputs.cache
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.dll
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\refint\Npuzzle.dll
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.pdb
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.genruntimeconfig.cache
+E:\Study && Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\ref\Npuzzle.dll
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.exe
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.deps.json
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.runtimeconfig.json
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.dll
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\bin\Debug\net6.0\Npuzzle.pdb
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.csproj.AssemblyReference.cache
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.AssemblyInfoInputs.cache
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.AssemblyInfo.cs
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.csproj.CoreCompileInputs.cache
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.dll
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\refint\Npuzzle.dll
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.pdb
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\Npuzzle.genruntimeconfig.cache
+E:\Study & Work\6th term\Algorithms\Project\T119\Npuzzle\Npuzzle\obj\Debug\net6.0\ref\Npuzzle.dll
